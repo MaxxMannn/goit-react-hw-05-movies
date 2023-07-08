@@ -13,7 +13,7 @@ const GoBack = styled(Link)`
 
   &:hover,
   &:focus {
-    color: #c25151;
+    color: #155151;
     font-weight: bold;
   }
 
@@ -48,10 +48,10 @@ const AdditionLink = styled(NavLink)`
   margin-bottom: 10px;
   &:hover,
   &:focus {
-    color: #c25151;
+    color: #155151;
   }
   &.active {
-    color: #c25151;
+    color: #155151;
     font-weight: bold;
   }
 `;

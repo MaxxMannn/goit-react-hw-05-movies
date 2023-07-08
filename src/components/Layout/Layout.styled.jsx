@@ -27,7 +27,7 @@ const StyledLink = styled(NavLink)`
 
   &.active {
     color: white;
-    background-color: #c25151;
+    background-color: #c51;
   }
 `;
 
